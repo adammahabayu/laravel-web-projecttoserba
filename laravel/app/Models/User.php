@@ -32,7 +32,7 @@ class User extends Authenticatable
         'password',
         'remember_token',
     ];
-
+"Mohammad Dimas"
     /**
      * The attributes that should be cast.
      *
